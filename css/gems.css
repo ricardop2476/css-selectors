@@ -36,7 +36,7 @@
 
 /* Select the image that has an attribute value matching "Diamond" (using attribute selector) */
 
-/*selector for diamond goes here */ {
+  img[alt="Diamond"]{
   position: absolute;
   z-index: 3;
   top: 300px;
